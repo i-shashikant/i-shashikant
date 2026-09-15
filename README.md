@@ -1,32 +1,227 @@
-<h1 align="center">Yoo!!! 👋 Shashikant here</h1>
-<h3 align="center">Builder • Developer • Problem Solver</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-shashikant&label=Profile%20views&color=0e75b6&style=flat" alt="i-shashikant" /> </p>
+# Yoo!!! 👋 I'm Shashikant
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-shashikant" alt="i-shashikant" /></a> </p>
+### `Builder • Developer • Problem Solver`
 
-- 🌱 I’m currently exploring **🤖 AI / RAG systems 🧩 Full-stack application architecture 👁️ Computer vision & gesture interfaces 🎙️ Voice-controlled interfaces**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-os-opal.vercel.app/](https://portfolio-os-opal.vercel.app/)
-
-- 🧪 I'm currently interested in opportunities where I can: ****Build → Learn → Ship → Break things → Fix them → Repeat.****
-
-- 📫 How to reach me **shashi873kant@gmail.com**
-
-- ⚡ Fun fact **“It should be easy” is usually the beginning of my suffering.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/i-shashikant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="i-shashikant" height="30" width="40" /></a>
-<a href="https://kaggle.com/meshashikant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="meshashikant" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/i-shashikant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i-shashikant" height="30" width="40" /></a>
+<p>
+  <a href="https://portfolio-os-opal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio--OS-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio OS"/></a>
+  <a href="mailto:shashi873kant@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/i-shashikant"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=i-shashikant&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/i-shashikant?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/repos/i-shashikant?label=Public%20Repos&style=for-the-badge&logo=github" alt="Public repositories"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-shashikant&show_icons=true&locale=en&layout=compact" alt="i-shashikant" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-shashikant&show_icons=true&locale=en" alt="i-shashikant" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-shashikant&" alt="i-shashikant" /></p>
+## 🧠 About Me
+
+I'm a developer who likes turning **"what if..."** into actual software.
+
+I learn best by building — especially when the project is slightly too ambitious and forces me to learn something new along the way.
+
+Right now, I'm exploring:
+
+- 🤖 **AI / RAG systems**
+- 🧩 **Full-stack application architecture**
+- 👁️ **Computer vision & gesture interfaces**
+- 🎙️ **Voice-controlled interfaces**
+- 📊 **Machine Learning & mathematical computing**
+- 🎨 **Interactive / creative frontend engineering**
+
+> 🧪 **Build → Learn → Ship → Break things → Fix them → Repeat.**
+
+⚡ **Fun fact:** *“It should be easy” is usually the beginning of my suffering.*
+
+---
+
+## 🚀 What I'm Building
+
+### 🖥️ Portfolio-OS
+
+My flagship personal platform — designed to be much more than a static portfolio.
+
+**Idea:** turn a portfolio into an actual interactive product that demonstrates engineering ability instead of simply describing it.
+
+Exploring things like:
+
+`Next.js` `TypeScript` `AI/RAG` `Three.js` `Gesture Control` `Voice UI` `GitHub APIs` `Interactive UX`
+
+🔗 **[Explore Portfolio-OS →](https://portfolio-os-opal.vercel.app/)**
+
+### 🎓 Campus-Chaupal
+
+A campus-focused platform built around student interaction, communication and collaboration.
+
+`Vue`
+
+### 🥾 GoGhumni — Trekking Management App
+
+A trekking-management application focused on organizing and simplifying trekking-related workflows.
+
+`HTML`
+
+### 🏢 BDM Project — IIT(BHU)
+
+An academic/project-based system built around business/data management concepts.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p><img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,html,css&perline=6" alt="Languages"/></p>
+
+### Frameworks / Libraries
+<p><img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,nodejs,flask&perline=6" alt="Frameworks"/></p>
+
+### Data / Backend / Tools
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,firebase,docker,git,postman&perline=8" alt="Tools"/></p>
+
+> I'm keeping this list focused on technologies I've actually worked with or am actively exploring — rather than collecting logos for decoration.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/i-shashikant">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=i-shashikant&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="Shashikant's GitHub stats"/>
+</a>
+<a href="https://github.com/i-shashikant">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-shashikant&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages"/>
+</a>
+
+</div>
+
+### 🔥 Contribution Streak
+
+<div align="center">
+<a href="https://github.com/i-shashikant"><img src="https://streak-stats.demolab.com/?user=i-shashikant&theme=transparent&hide_border=true" alt="GitHub contribution streak"/></a>
+</div>
+
+### 📈 Recent Contribution Activity
+
+<div align="center">
+<a href="https://github.com/i-shashikant"><img src="https://github-readme-activity-graph.vercel.app/graph?username=i-shashikant&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph"/></a>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=i-shashikant&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub trophies"/>
+</a>
+</div>
+
+---
+
+## 🧊 Isometric Contribution Calendar
+
+<div align="center">
+<img src="./github-metrics.svg" alt="GitHub metrics and contribution calendar" width="900"/>
+</div>
+
+---
+
+# 👾 Pac-Man vs. My Commits
+
+Apparently normal contribution graphs weren't chaotic enough.
+
+So I made **Pac-Man eat my commits.**
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i-shashikant/i-shashikant/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i-shashikant/i-shashikant/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/i-shashikant/i-shashikant/output/pacman-contribution-graph.svg">
+</picture>
+</div>
+
+> 👻 Ghosts chase me. Pac-Man eats my commits. Somehow this is considered analytics.
+
+---
+
+## 💼 Experience
+
+### Subtitle Editor & Script Writer
+**Chibity Entertainment Ltd., Chhattisgarh**  
+`Feb 2025 – Present`
+
+Working across subtitle editing and script-writing workflows, combining attention to detail with creative problem-solving.
+
+---
+
+## 🧪 Things I Like Building
+
+I don't really enjoy making:
+
+> *"Yet another basic To-Do app."*
+
+I'd rather build something that makes me say:
+
+> **"Wait... can we actually do that?"**
+
+Some areas I enjoy experimenting with:
+
+- 🤖 AI-powered applications
+- 🧠 RAG & intelligent assistants
+- 👁️ Computer vision
+- 🖐️ Gesture-controlled interfaces
+- 🎙️ Voice interfaces
+- 🌐 Full-stack systems
+- 📊 ML / data-driven applications
+- 🎨 Interactive frontend experiences
+- 🧮 Mathematics + computing
+
+---
+
+## 📚 Currently Learning
+
+```text
+AI / RAG              ███████████████░░░
+Full-Stack Systems    ██████████████░░░░
+Machine Learning      ████████████░░░░░░
+Computer Vision       ██████████░░░░░░░░
+System Design         ████████░░░░░░░░░░
+```
+
+*These progress bars are intentionally vibes-based. Please don't open an issue about them.* 😭
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/i-shashikant"><img src="https://img.shields.io/badge/LinkedIn-i--shashikant-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/meshashikant"><img src="https://img.shields.io/badge/Kaggle-meshashikant-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://leetcode.com/i-shashikant/"><img src="https://img.shields.io/badge/LeetCode-i--shashikant-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="mailto:shashi873kant@gmail.com"><img src="https://img.shields.io/badge/Gmail-shashi873kant%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Build something interesting.
+
+**If it sounds slightly ridiculous, I'm probably interested.**
+
+<br/>
+
+<i>"Don't just learn the technology. Build something with it."</i>
+
+<br/><br/>
+
+<sub>Made with curiosity, questionable scope decisions, and an unreasonable willingness to debug things at 2 AM.</sub>
+
+</div>
