@@ -10,12 +10,6 @@
   <a href="https://www.linkedin.com/in/i-shashikant"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=i-shashikant&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/i-shashikant?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/repos/i-shashikant?label=Public%20Repos&style=for-the-badge&logo=github" alt="Public repositories"/>
-</p>
-
 </div>
 
 ---
@@ -31,45 +25,10 @@ Right now, I'm exploring:
 - 🤖 **AI / RAG systems**
 - 🧩 **Full-stack application architecture**
 - 👁️ **Computer vision & gesture interfaces**
-- 🎙️ **Voice-controlled interfaces**
-- 📊 **Machine Learning & mathematical computing**
-- 🎨 **Interactive / creative frontend engineering**
 
-> 🧪 **Build → Learn → Ship → Break things → Fix them → Repeat.**
+> 🧪 I'm currently interested in opportunities where I can: **Build → Learn → Ship → Break things → Fix them → Repeat.**
 
 ⚡ **Fun fact:** *“It should be easy” is usually the beginning of my suffering.*
-
----
-
-## 🚀 What I'm Building
-
-### 🖥️ Portfolio-OS
-
-My flagship personal platform — designed to be much more than a static portfolio.
-
-**Idea:** turn a portfolio into an actual interactive product that demonstrates engineering ability instead of simply describing it.
-
-Exploring things like:
-
-`Next.js` `TypeScript` `AI/RAG` `Three.js` `Gesture Control` `Voice UI` `GitHub APIs` `Interactive UX`
-
-🔗 **[Explore Portfolio-OS →](https://portfolio-os-opal.vercel.app/)**
-
-### 🎓 Campus-Chaupal
-
-A campus-focused platform built around student interaction, communication and collaboration.
-
-`Vue`
-
-### 🥾 GoGhumni — Trekking Management App
-
-A trekking-management application focused on organizing and simplifying trekking-related workflows.
-
-`HTML`
-
-### 🏢 BDM Project — IIT(BHU)
-
-An academic/project-based system built around business/data management concepts.
 
 ---
 
@@ -83,8 +42,6 @@ An academic/project-based system built around business/data management concepts.
 
 ### Data / Backend / Tools
 <p><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,firebase,docker,git,postman&perline=8" alt="Tools"/></p>
-
-> I'm keeping this list focused on technologies I've actually worked with or am actively exploring — rather than collecting logos for decoration.
 
 ---
 
