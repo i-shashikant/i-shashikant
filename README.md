@@ -16,8 +16,6 @@
 
 ## 🧠 About Me
 
-I'm a developer who likes turning **"what if..."** into actual software.
-
 I learn best by building — especially when the project is slightly too ambitious and forces me to learn something new along the way.
 
 Right now, I'm exploring:
@@ -28,7 +26,9 @@ Right now, I'm exploring:
 
 > 🧪 I'm currently interested in opportunities where I can: **Build → Learn → Ship → Break things → Fix them → Repeat.**
 
-⚡ **Fun fact:** *“It should be easy” is usually the beginning of my suffering.*
+> ⚡ **Fun fact:** *“It should be easy” is usually the beginning of my suffering.*
+
+> 👨‍💻 All of my projects are available at https://portfolio-os-opal.vercel.app
 
 ---
 
@@ -45,56 +45,15 @@ Right now, I'm exploring:
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/i-shashikant">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=i-shashikant&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="Shashikant's GitHub stats"/>
-</a>
-<a href="https://github.com/i-shashikant">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-shashikant&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages"/>
-</a>
-
-</div>
-
 ### 🔥 Contribution Streak
 
 <div align="center">
 <a href="https://github.com/i-shashikant"><img src="https://streak-stats.demolab.com/?user=i-shashikant&theme=transparent&hide_border=true" alt="GitHub contribution streak"/></a>
 </div>
 
-### 📈 Recent Contribution Activity
-
-<div align="center">
-<a href="https://github.com/i-shashikant"><img src="https://github-readme-activity-graph.vercel.app/graph?username=i-shashikant&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph"/></a>
-</div>
-
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=i-shashikant&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub trophies"/>
-</a>
-</div>
-
----
-
-## 🧊 Isometric Contribution Calendar
-
-<div align="center">
-<img src="./github-metrics.svg" alt="GitHub metrics and contribution calendar" width="900"/>
-</div>
-
----
-
-# 👾 Pac-Man vs. My Commits
 
 Apparently normal contribution graphs weren't chaotic enough.
-
-So I made **Pac-Man eat my commits.**
 
 <div align="center">
 <picture>
@@ -105,54 +64,6 @@ So I made **Pac-Man eat my commits.**
 </div>
 
 > 👻 Ghosts chase me. Pac-Man eats my commits. Somehow this is considered analytics.
-
----
-
-## 💼 Experience
-
-### Subtitle Editor & Script Writer
-**Chibity Entertainment Ltd., Chhattisgarh**  
-`Feb 2025 – Present`
-
-Working across subtitle editing and script-writing workflows, combining attention to detail with creative problem-solving.
-
----
-
-## 🧪 Things I Like Building
-
-I don't really enjoy making:
-
-> *"Yet another basic To-Do app."*
-
-I'd rather build something that makes me say:
-
-> **"Wait... can we actually do that?"**
-
-Some areas I enjoy experimenting with:
-
-- 🤖 AI-powered applications
-- 🧠 RAG & intelligent assistants
-- 👁️ Computer vision
-- 🖐️ Gesture-controlled interfaces
-- 🎙️ Voice interfaces
-- 🌐 Full-stack systems
-- 📊 ML / data-driven applications
-- 🎨 Interactive frontend experiences
-- 🧮 Mathematics + computing
-
----
-
-## 📚 Currently Learning
-
-```text
-AI / RAG              ███████████████░░░
-Full-Stack Systems    ██████████████░░░░
-Machine Learning      ████████████░░░░░░
-Computer Vision       ██████████░░░░░░░░
-System Design         ████████░░░░░░░░░░
-```
-
-*These progress bars are intentionally vibes-based. Please don't open an issue about them.* 😭
 
 ---
 
@@ -169,15 +80,10 @@ System Design         ████████░░░░░░░░░░
 
 <div align="center">
 
-### 🚀 Build something interesting.
 
 **If it sounds slightly ridiculous, I'm probably interested.**
 
 <br/>
-
-<i>"Don't just learn the technology. Build something with it."</i>
-
-<br/><br/>
 
 <sub>Made with curiosity, questionable scope decisions, and an unreasonable willingness to debug things at 2 AM.</sub>
 
