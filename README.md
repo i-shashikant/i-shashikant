@@ -30,6 +30,8 @@ Right now, I'm exploring:
 
 > 👨‍💻 All of my projects are available at https://portfolio-os-opal.vercel.app
 
+> 📄 Resume : https://drive.google.com/file/d/1OuZTUX21mdmqa-YKGszJZoN2-Vh8N2_q/view?usp=sharing
+
 ---
 
 ## 🛠️ Tech Stack
